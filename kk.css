@@ -1,0 +1,20 @@
+p{
+background-color:red;
+}
+body{
+background-image:url("trees.jpg")
+}
+#p1
+{
+font-style:italic;
+font-size:20px;
+background-color:white;
+letter-spacing:5px;
+word-spacing:5px;
+text-indent:2cm;
+text-decoration:underline;
+text-transform:lowercase;
+text-shadow:4px 4px 8px blue;
+}
+
+
